@@ -25,7 +25,6 @@ This framework provides sophisticated analysis tools for characterizing syntheti
 ## Files
 
 - `NTA_Analysis_Framework.ipynb` - Complete Jupyter notebook with sequential workflow
-- Documentation and example outputs (coming soon)
 
 ## Usage
 
